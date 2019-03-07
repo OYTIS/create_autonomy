@@ -1,17 +1,12 @@
 # create_autonomy
 
-[ROS](http://ros.org) driver for iRobot [Create 1 and 2](http://www.irobot.com/About-iRobot/STEM/Create-2.aspx).
+*DISCLAIMER*: it is a pretty immature port of the original create\_autonomy to ROS2. Some portions of this README might be outdated.
+
+[ROS2](http://ros2.org) driver for iRobot [Create 1 and 2](http://www.irobot.com/About-iRobot/STEM/Create-2.aspx).
 This package wraps the C++ library [libcreate][libcreate], which uses iRobot's [Open Interface Specification][oi_spec].
 
-<!--[](* Documentation: TODO)-->
-* ROS wiki page: http://wiki.ros.org/create_autonomy
-* Support: [ROS Answers (tag: create_autonomy)](http://answers.ros.org/questions/scope:all/sort:activity-desc/tags:create_autonomy/page:1/)
 * Author: [Jacob Perron](http://jacobperron.ca) ([Autonomy Lab](http://autonomylab.org), [Simon Fraser University](http://www.sfu.ca))
-
-## Build Status
-
-TravisCI (Ubuntu _Trusty_, ROS _Indigo_ and _Jade_)  
-![Build Status](https://api.travis-ci.org/AutonomyLab/create_autonomy.svg?branch=indigo-devel)
+* ROS2 port; [Anton Gerasimov](https://github.com/oytis)
 
 ## Supported Robots
 

@@ -12,7 +12,7 @@
 
   <author email="jperron@sfu.ca">Jacob Perron</author>
 
-  <buildtool_depend>catkin</buildtool_depend>
+  <buildtool_depend>ament_cmake</buildtool_depend>
 
   <build_depend>roslaunch</build_depend>
 
